@@ -1,0 +1,13 @@
+{
+  "name": "HDC",
+  "description": "HDC: Haskell Demolicious Compiler SAAS",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aleksanb/hdc-express.git"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "pg": "*"
+  }
+}
